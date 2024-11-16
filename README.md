@@ -79,8 +79,8 @@ For first-time users:
 - For USB communication issues, ensure you have the correct drivers installed
 - Monitor the USB serial output for debugging information
 
-## Contributing
-Feel free to submit issues and enhancement requests!
+## Acknowledgement
+The program is built from the rp2040 blinky template [here](https://github.com/uf-cpe-capstone/feather-rp2040-rs-template)
 
 ## License
 MIT License
